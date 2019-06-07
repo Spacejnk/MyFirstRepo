@@ -1,0 +1,103 @@
+body  {
+    background-color: #FFE6D6;
+ }
+ 
+ .firstpage{
+     text-align: center;
+     color: rgb(15, 191, 15)
+ }
+ 
+ .center {
+     display: block;
+     margin-right: auto;
+     margin-left: auto;
+     border-radius: 5px;
+ }
+ 
+ .bold {
+     font-weight: bold;
+     
+ }
+ 
+ h2 {
+     padding-left: 27px;
+ }
+ 
+ a {
+     font-size: 18px;
+     padding-left: 27px;
+     padding-top: 5px;
+     margin: -7px;
+     display: block;
+     text-decoration: none;
+     color: #FF784F;
+ }
+ 
+ .bonus {
+     color: #02E815
+ }
+ 
+ .food {
+     font-size: 20px;
+     color: rgb(169, 90, 225);
+ }
+ 
+ #music {
+     color: #F031A9
+ }
+ 
+ .reggae {
+     color: #FF3C26;
+     font-size: 20px;
+ }
+ 
+ .jazz {
+     color: #EBC731;
+     font-size: 20px;
+ }
+ 
+ .electronic {
+     color: #00EB44;
+     font-size: 20px;
+ }
+ 
+  li .reggae {
+     font-size: 30px;
+ }
+ 
+ .basic {
+     color: #5DC3E8;
+ }
+ 
+ table th{
+     font-size: 25px;
+     font-weight: bold; 
+     color: #FF3C26
+ }
+ table tr   {
+    
+     text-align: center;
+     font-size: 17px;
+     color: #FF4590
+ }
+ 
+ table tr th {
+     padding-left: 20.5px;
+ }
+ 
+ .bob {
+     text-align: center;
+     font-size: 35px;
+     color: #830024;
+ }
+ 
+ footer {
+     font-size: 20px;
+     text-align: center;
+     height: 40px;
+     margin-top: 20px;
+     padding-top: 10px;
+     background-color: lightblue;
+     border-radius: 5px;
+     color: #FF3C26;
+ }
